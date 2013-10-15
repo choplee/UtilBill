@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sun Oct 13 21:37:35 CDT 2013:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0141-b4d3-68f3-000000b96c60 
+Mon Oct 14 12:45:36 CDT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0141-b812-b880-000000baff50 
 on database directory D:\My_docs\GitHub\UtilBill\proofOfConeptDB\dbPOC\testdb3  with class loader sun.misc.Launcher$AppClassLoader@13dc4d5 
 Loaded from file:/C:/Program%20Files/glassfish-3.1.2.2/javadb/lib/derby.jar
 java.vendor=Oracle Corporation
